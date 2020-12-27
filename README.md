@@ -1,2 +1,2 @@
 # Horspool Algorithm
-Implementing Hoorspool Algorithm in a simple console application in Java.
+Implementing Hoorspool Algorithm in a simple console application in Java. 
