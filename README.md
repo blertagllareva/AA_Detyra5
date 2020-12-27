@@ -1,2 +1,2 @@
-# pattern_matching_horspool
-Program to match the given pattern in a given text using Horspool's Algorithm
+# Horspool Algorithm
+Implementing Hoorspool Algorithm in a simple console application in Java.
